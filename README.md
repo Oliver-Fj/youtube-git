@@ -6,3 +6,5 @@
 6- git log <!-- muestra el historial de todos los commit realizados -->
 7- git coomit --amend  <!-- para corregir el nombre del commit realizado (para salir: esc + : + w + q + !)-->
 8- git checkout -b rama-heores  
+9- git branch  <!--muestra el listado de las ramas -->
+10- git checkout master <!--  regresar a la rama principal -->
