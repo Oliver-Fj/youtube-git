@@ -1,3 +1,4 @@
+# comandos útiles de git
 1. git init <!-- inicializa git en tu archivo  -->
 2. git add . <!--sube todos los archivos al stage area -->
 3. git reset . <!-- desdhace los cambios realizados por git add . -->
