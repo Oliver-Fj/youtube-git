@@ -11,3 +11,4 @@
 10. git checkout master <!--  regresar a la rama principal -->
 11. git branch -d rama-heores <!--  borrar una rama en especifico -->
 12. git push 
+13. git commit -am "message"<!--   comando reducido de git add . y git commit -m "message" -->
